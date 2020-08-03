@@ -2,8 +2,8 @@
 <html>
 <head>
 	<title> Fahrenheit a celsius </title>
-	<link rel="short icon" type="./imagenes/logo.png" href="./imagenes/logo.jpg">
-	<link rel="stylesheet" type="text/css" href="./css/menu.css">
+	<link rel="short icon" type="../imagenes/logo.png" href="../imagenes/logo.jpg">
+	<link rel="stylesheet" type="text/css" href="../css/menu.css">
 </head>
 <style>
 	body {

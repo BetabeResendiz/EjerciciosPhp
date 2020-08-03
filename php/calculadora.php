@@ -2,14 +2,14 @@
 <html>
 <head>
 	<title>Calculadora</title>
-	<link rel="short icon" type="./imagenes/logo.png" href="./imagenes/logo.jpg">
-	<link rel="stylesheet" type="text/css" href="./css/menu.css">
+	<link rel="short icon" type="./imagenes/logo.png" href="../imagenes/logo.jpg">
+	<link rel="stylesheet" type="text/css" href="../css/menu.css">
 </head>
 <body>
 	<header>
     <nav class="menu">
       <ul>
-        <li><a href="index.html">INICIO</a></li>
+        <li><a href="./index.html">INICIO</a></li>
         <li><a href="#">Calculadora</a></li>
       </ul>
     </nav>

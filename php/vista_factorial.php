@@ -4,8 +4,8 @@
 	<meta charset="utf-8">
 	<title>Obtencion del importe en bruto</title>
 	<link rel="stylesheet" type="text/css" href="estilo-php">
-	<link rel="short icon" type="./imagenes/logo.png" href="./imagenes/logo.jpg">
-	<link rel="stylesheet" type="text/css" href="./css/menu.css">
+	<link rel="short icon" type="../imagenes/logo.png" href="../imagenes/logo.jpg">
+	<link rel="stylesheet" type="text/css" href="../css/menu.css">
 </head>
 <body>
 <header>
