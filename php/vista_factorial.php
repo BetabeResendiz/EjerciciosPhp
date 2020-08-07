@@ -13,6 +13,8 @@
       <ul>
         <li><a href="index.html">INICIO</a></li>
         <li><a href="vista_factorial.php">Factorizacion</a></li>
+        <li><a href="vista_Calculadora.php">Calculadora</a></li>
+        <li><a href="celsius.php">Celsius</a></li>
       </ul>
     </nav>
 </header>
